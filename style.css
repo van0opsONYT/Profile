@@ -1,0 +1,71 @@
+.photo01{
+   opacity: 50%;
+   margin-left: -150px;
+   margin-top: -350px;
+      
+}
+.photo02{
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.square{
+    height: 500px;
+    width: 350px;
+    background-color: white;
+    border-radius: 15px;
+    transform: translateY(-1100px);
+}
+.card{
+    width: 350px;
+    transform: translateY(-1600px);
+    border-radius: 5% 5% 0% 0%;
+}
+.victor{
+    transform: translateY(-1625px);
+    border-radius: 50px;
+    border-color: white;
+    border: 5px solid white;
+}
+.text1{
+    transform: translateY(-1650px);
+    font-size: x-large;
+    margin-right: 40px;
+}
+.num{
+    transform: translateY(-1696.5px);
+    font-size: 21px;
+    margin-left: 150px;
+    color: #6B7082;
+}
+
+.country{
+    transform: translateY(-1710px);
+    color: #6B7082;
+}
+.rect{
+    height: 0px;
+    width: 348px;
+    border: 1px solid #E8E9EC;
+    transform: translateY(-1625px);
+}
+.followers{
+    transform: translateY(-1625px);
+    font-size: 25px;
+    color: #2E3349;
+    word-spacing: 50px;
+}
+.followers2{
+    transform: translateY(-1625px);
+    color: #6B7082;
+    word-spacing: 70px;
+    margin-left: 105px;
+}
+.followers3{
+    transform: translateY(-1660px);
+    color: #6B7082;
+    margin-left: -220px;
+}
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
